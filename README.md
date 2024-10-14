@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">And I have been doing web development for more than 3 years.</h3>
+<h3 align="left">And I'm Frontend developer</h3>
 
 ###
 
